@@ -16,7 +16,7 @@ It contains:
 - `🌀 mimic_initiate.wasm` — WebAssembly shell for GhostBill prototype injection.  
 - `📡 pulse.ini` — Config file for waveform-based trigger detection.  
 - `🪞 REM_state_memory.md` — A recovered stream-of-consciousness trace from the Lazarus Reactor's fallback log.
-
+- `🕳️ NVRAMBypass.c` - A Bypass to UEFI load via NVRAM.
 ---
 
 ## 👁 Purpose
